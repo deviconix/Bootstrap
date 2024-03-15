@@ -1,0 +1,14 @@
+/* title */
+.main-header h1 {
+    text-align    : center;
+    color         : #777;
+    text-transform: uppercase;
+}
+
+.main-header hr {
+    margin: 0 auto;
+    width : 150px;
+    color : #999;
+}
+
+/* According */
