@@ -12,3 +12,9 @@
 }
 
 /* According */
+
+#accordionExample a:hover {
+    color: var(--bs-secondary) !important;
+    /**/
+    color: aquamarine background-color: #000 !important;
+}
