@@ -1,3 +1,15 @@
 section {
     padding: 60px 0;
 }
+
+
+.showcase-img {
+    background-position: center;
+    background-size    : cover;
+}
+
+@media only screen and (max-width: 768px) {
+    .showcase-img {
+        height: 300px;
+    }
+}
