@@ -3,7 +3,7 @@ section {
 }
 
 
-.showcase-img {
+.bg-img {
     background-position: center;
     background-size    : cover;
 }
@@ -13,9 +13,7 @@ section {
 }
 
 .call-to-action {
-    background-image   : url(../img/slider-1.jpg);
-    background-position: center;
-    background-size    : cover;
+    background-image: url(../img/slider-1.jpg);
 }
 
 @media only screen and (max-width: 768px) {
