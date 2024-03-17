@@ -8,6 +8,10 @@ section {
     background-size    : cover;
 }
 
+.team-item {
+    max-width: 200px;
+}
+
 @media only screen and (max-width: 768px) {
     .showcase-img {
         height: 300px;
