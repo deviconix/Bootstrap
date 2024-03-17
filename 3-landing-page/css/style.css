@@ -13,7 +13,9 @@ section {
 }
 
 .call-to-action {
-    background-image: url(../img/slider-1.jpg);
+    background-image   : url(../img/slider-1.jpg);
+    background-position: center;
+    background-size    : cover;
 }
 
 @media only screen and (max-width: 768px) {
